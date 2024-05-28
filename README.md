@@ -1,2 +1,2 @@
-# project1
+# BlogApp
 It's my first project
